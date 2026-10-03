@@ -170,7 +170,7 @@ Mở lại **project cũ**, thêm script mới vào **chính thư mục game đa
 7. Xem Hồ sơ nhân vật / Cảnh báo xưng hô, duyệt những cặp cần thay.
 8. Mục 04 → Bắt đầu / dịch tiếp.
 ```
-
+z
 </details>
 
 ### `04` · ✍️ Dịch, duyệt & xuất
